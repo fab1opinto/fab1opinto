@@ -4,7 +4,7 @@
 # Cursando:
 
 * 6° Semestre de Análise e Desenvolvimento de Sistemas. 🖥️ 💻<br />
-* Pós em Arquiterura e Infraestrutura de TI <br />
+* Pós em Arquitetura e Infraestrutura de TI <br />
 * Inglês
 
 # Perfis:
