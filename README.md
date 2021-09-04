@@ -29,7 +29,7 @@ Docker, Kubernetes.
 Zabbix, Prometheus, Grafana (Estudando)
 #### Servidores: 
 Ubuntu Server,
-Windows Server
+Windows Server.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/fab1opinto/github-readme-stats)
