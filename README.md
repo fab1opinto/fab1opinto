@@ -5,7 +5,7 @@
 
 * 6° Semestre de Análise e Desenvolvimento de Sistemas. 🖥️ 💻<br />
 * Pós em Arquitetura e Infraestrutura de TI.  🖊️ 📚<br /> 
-* Inglês
+* Inglês. 🖊️ 📚
 
 # Perfis:
 <a href="https://www.linkedin.com/in/fabiopintoapt/" target="_blank">
