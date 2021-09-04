@@ -25,6 +25,8 @@ Python, PHP, Shell Script.
 MySQL, NoSQL.
 #### Orquestração e Contêineres
 Docker, Kubernetes.
+#### Monitoramento de Redes:
+Zabbix, Prometheus, Grafana (Estudando)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/fab1opinto/github-readme-stats)
