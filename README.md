@@ -28,7 +28,7 @@ Docker, Kubernetes.
 #### Monitoramento de Redes:
 Zabbix, Prometheus, Grafana (Estudando)
 #### Servidores: 
-Ubuntu Server
+Ubuntu Server,
 Windows Server
 
 
