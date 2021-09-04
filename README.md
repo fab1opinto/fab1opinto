@@ -23,11 +23,11 @@ PHP, Python.
 Python, PHP, Shell Script.
 #### Banco de dados:
 MySQL, NoSQL.
-#### Orquestração e Contêineres
+#### Orquestração e Contêineres:
 Docker, Kubernetes.
 #### Monitoramento de Redes:
 Zabbix, Prometheus, Grafana (Estudando)
-#### Servidores.
+#### Servidores: 
 Ubuntu Server
 Windows Server
 
