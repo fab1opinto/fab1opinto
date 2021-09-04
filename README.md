@@ -22,7 +22,7 @@ PHP, Python.
 ####  Linguagens de Programação:
 Python, PHP, Shell Script.
 #### Banco de dados:
-Mysql, NoSQL.
+MySQL, NoSQL.
 #### Orquestração e Contêineres
 Docker, Kubernetes.
 
