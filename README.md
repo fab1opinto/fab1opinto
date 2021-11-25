@@ -12,8 +12,7 @@
 <img align="center" alt="Fabio-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><br />
 Linkedin
 </a> <br />
-oud Computing: 
-AWS.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/fab1opinto/github-readme-stats)
 
