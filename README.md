@@ -12,25 +12,7 @@
 <img align="center" alt="Fabio-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"><br />
 Linkedin
 </a> <br />
-
-# Habilidades e Conhecimentos:
-
-#### Front End:
-HTML, CSS, Bootstrap, Javascript, Jquery.
-#### Back End:
-PHP, Python.
-####  Linguagens de Programação:
-Python, PHP, Shell Script.
-#### Banco de dados:
-MySQL, NoSQL.
-#### Orquestração e Contêineres:
-Docker, Kubernetes.
-#### Monitoramento de Redes:
-Zabbix, Prometheus, Grafana (Estudando)
-#### Servidores: 
-Ubuntu Server,
-Windows Server.
-#### Cloud Computing: 
+oud Computing: 
 AWS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/fab1opinto/github-readme-stats)
