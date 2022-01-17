@@ -2,7 +2,7 @@
 
 
 
-
+[![Linkedin: Fabio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabiopintoapt//)](https://www.linkedin.com/in/fabiopintoapt//)
 
 
 ## ⚡ Habilidades e Conhecimentos
