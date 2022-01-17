@@ -1,5 +1,4 @@
 ### Olá, Sejam bem vindos ao meu perfil 👋
- love contributing to the community with [blog posts](http://loiane.com/), [videos](http://youtube.com/loianegroner) and [books](https://www.packtpu>
 
 
 ## ⚡ Habilidades e Conhecimento
