@@ -1,5 +1,6 @@
 ### Olá, Sejam bem vindos ao meu perfil 👋
 
+### Educação :books: :computer: :desktop_computer:
 
 ### Redes Sociais:
 [![Linkedin: Fabio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabiopintoapt//)](https://www.linkedin.com/in/fabiopintoapt//)
