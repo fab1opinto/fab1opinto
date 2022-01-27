@@ -4,6 +4,7 @@
 #### Análise e Desenvolvimento de Sistemas.
 
 ## ⚡ Habilidades e Conhecimentos:
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 
 
 
