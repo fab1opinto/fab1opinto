@@ -5,7 +5,8 @@
 
 ## ⚡ Habilidades e Conhecimentos:
 
-![<HTML5>](http://www.w3.org/2000/svg"-<HTML5>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tassiotfc&show_icons=true&theme=tokyonight"/>
+
 
 
 
