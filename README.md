@@ -7,16 +7,7 @@
 ## ⚡ Habilidades e Conhecimentos:
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.git>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.git>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.g>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.gi>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" sr>
-</div>
+
 
 
 
