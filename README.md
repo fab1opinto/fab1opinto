@@ -3,10 +3,6 @@
 ### Educação :books: :computer: :desktop_computer:
 #### Análise e Desenvolvimento de Sistemas.
 
-<a href="https://wa.me/<SEUNUMERO>" alt="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
-</a>
-
 ## ⚡ Habilidades e Conhecimentos:
 
 
