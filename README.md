@@ -5,6 +5,7 @@
 
 ## ⚡ Habilidades e Conhecimentos:
 
+![<HTML5>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
 
 
 
