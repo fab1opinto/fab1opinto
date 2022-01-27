@@ -1,7 +1,7 @@
 ### Olá, Sejam bem vindos ao meu perfil 👋
 
-### Educação :books: :computer: :desktop_computer:
-#### Análise e Desenvolvimento de Sistemas.
+### Educação :books: :computer: :desktop_computer: :
+### Análise e Desenvolvimento de Sistemas.
 
 ## ⚡ Habilidades e Conhecimentos:
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>
