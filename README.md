@@ -1,11 +1,11 @@
-### Olá, Sejam bem vindos ao meu perfil 👋
+Olá, Sejam bem vindos ao meu perfil 👋
 
-### Educação:  Análise e Desenvolvimento de Sistemas. :books: :computer: :desktop_computer:
+Educação:  Análise e Desenvolvimento de Sistemas. :books: :computer: :desktop_computer:
 
 
-### ⚡ Habilidades e Conhecimentos:
+⚡ Habilidades e Conhecimentos:
 
-<img height="30" width="100" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic"></code>
+
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>
