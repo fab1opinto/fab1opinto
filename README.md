@@ -5,9 +5,9 @@ tenho como hobbie estudar e aprender sobre toda área de desenvolvimento. :books
 
 atualmente estou como Freelancer.
 
- Habilidades e Conhecimentos ⚡
+Habilidades e Conhecimentos ⚡
 
-
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)
 
 
 
