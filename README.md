@@ -1,7 +1,9 @@
-Olá, Sejam bem vindos ao meu perfil 👋
+Oi, Eu sou o Fábio.👋
 
-Educação:  Análise e Desenvolvimento de Sistemas. :books: :computer: :desktop_computer:
+Sou Desenvolvedor Front End formado em Análise e Desenvolvimento de Sistemas,
+tenho como hobbie estudar e aprender sobre toda área de desenvolvimento. :books: :computer: :desktop_computer:
 
+atualmente estou como Freelancer.
 
  Habilidades e Conhecimentos ⚡
 
