@@ -13,7 +13,7 @@ Habilidades e Conhecimentos ⚡
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
