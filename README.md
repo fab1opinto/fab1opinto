@@ -9,10 +9,12 @@ Habilidades e Conhecimentos ⚡
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 
 
