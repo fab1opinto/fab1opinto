@@ -3,7 +3,7 @@ Oi, Eu sou o Fábio.👋
 Sou Desenvolvedor Front End formado em Análise e Desenvolvimento de Sistemas,
 tenho como hobbie estudar e aprender sobre toda área de desenvolvimento. :books: :computer: :desktop_computer:
 
-atualmente estou como Freelancer.
+atualmente estou como Freelancer. :man_technologist:
 
 Habilidades e Conhecimentos ⚡
 
