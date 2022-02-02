@@ -7,7 +7,7 @@ atualmente estou como Freelancer.
 
 Habilidades e Conhecimentos ⚡
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
