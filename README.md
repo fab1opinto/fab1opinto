@@ -1,4 +1,4 @@
-Oi, Eu sou o Fábio 👋
+Oi, Eu sou o Fábio | Hi, I'm Fábio.👋
 
 Sou Desenvolvedor Front End formado em Análise e Desenvolvimento de Sistemas :student: <br/>
 tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer:
