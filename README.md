@@ -5,7 +5,7 @@ tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books:
 
 atualmente estou como Freelancer :man_technologist:
 
-Habilidades e Conhecimentos ⚡
+Habilidades e Conhecimentos | Skills ⚡
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
