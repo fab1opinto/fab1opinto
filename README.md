@@ -8,6 +8,7 @@ atualmente estou como Freelancer | working as a freelancer :man_technologist:
 <div>
 <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
 Habilidades e Conhecimentos | Skills ⚡
 <div style="display: inline_block">
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
