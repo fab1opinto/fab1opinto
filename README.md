@@ -22,6 +22,8 @@ Habilidades e Conhecimentos | Skills ⚡
 ![Dcoker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+<img src="https://img.icons8.com/color/50/000000/css3.png"/>
+
 	
 
 
