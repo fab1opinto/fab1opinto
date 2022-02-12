@@ -6,6 +6,17 @@ tenho como hobbie estudar e aprender sobre toda área de desenvolvimento | my ho
 atualmente estou como Freelancer | working as a freelancer :man_technologist:
 
 Habilidades e Conhecimentos | Skills ⚡
+
+<style type="text/css">
+#menu ul {
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+
+#menu ul li { display: inline; }
+</style>
+
 <nav id="menu">
 <ul>
 	<li><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></li>
@@ -25,14 +36,7 @@ Habilidades e Conhecimentos | Skills ⚡
 </ul>
 </nav>
 
-#menu ul {
-	padding:0px;
-	margin:0px;
-	list-style:none;
-}
 
-#menu ul li { display: inline; }
-	
 
 
 
