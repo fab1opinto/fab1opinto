@@ -6,8 +6,8 @@ tenho como hobbie estudar e aprender sobre toda área de desenvolvimento | my ho
 atualmente estou como Freelancer | working as a freelancer :man_technologist:
 
 Habilidades e Conhecimentos | Skills ⚡
-
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<ul>
+	<li><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></li>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -21,7 +21,7 @@ Habilidades e Conhecimentos | Skills ⚡
 <img src="https://img.icons8.com/ios-filled/50/000000/mysql.png"/>
 <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-
+</ul>
 	
 
 
