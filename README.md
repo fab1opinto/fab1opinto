@@ -8,7 +8,7 @@ atualmente estou como Freelancer | working as a freelancer :man_technologist:
 Habilidades e Conhecimentos | Skills ⚡
 <ul>
 	<li><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></li>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+	<li><img src="https://img.icons8.com/color/48/000000/git.png"/></li>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
