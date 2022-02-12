@@ -6,7 +6,7 @@ tenho como hobbie estudar e aprender sobre toda área de desenvolvimento | my ho
 atualmente estou como Freelancer | working as a freelancer :man_technologist:
 
 <div>
-<a href="#">https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white</a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 Habilidades e Conhecimentos | Skills ⚡
 <div style="display: inline_block">
