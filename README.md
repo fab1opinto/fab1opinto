@@ -7,34 +7,7 @@ atualmente estou como Freelancer | working as a freelancer :man_technologist:
 
 Habilidades e Conhecimentos | Skills ⚡
 
-<style type="text/css">
-#menu ul {
-	padding:0px;
-	margin:0px;
-	list-style:none;
-}
 
-#menu ul li { display: inline; }
-</style>
-
-<nav id="menu">
-<ul>
-	<li><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/git.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/css3.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/sass.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></li>
-	<li><img src="https://img.icons8.com/plasticine/100/000000/react.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/php.png"/></li>
-	<li><img src="https://img.icons8.com/ios-filled/50/000000/mysql.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/></li>
-	<li><img src="https://img.icons8.com/color/48/000000/docker.png"/></li>
-</ul>
-</nav>
 
 
 
