@@ -21,11 +21,11 @@ Habilidades e Conhecimentos | Skills ⚡
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/php.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
 
