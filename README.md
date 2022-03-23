@@ -29,6 +29,10 @@ Habilidades e Conhecimentos | Skills ⚡
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
 
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
 
 
 
