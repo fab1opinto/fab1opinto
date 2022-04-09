@@ -41,9 +41,9 @@ Habilidades e Conhecimentos | Skills ⚡
 
 
 
-<div style="margin-top: 40px">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/fab1opinto/github-readme-stats)
-</div>
+
 
 
 
