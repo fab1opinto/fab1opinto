@@ -14,7 +14,7 @@ atualmente estou como Freelancer | working as a freelancer :man_technologist:
 
 Habilidades e Conhecimentos | Skills ⚡
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin-bottom: 5px">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/ width="78px">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="68px">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="68px">
