@@ -26,7 +26,9 @@ Habilidades e Conhecimentos | Skills ⚡
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="80px">  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="60px">
 </div>
-
+<br />
+<br />
+<br />
 
 
 
