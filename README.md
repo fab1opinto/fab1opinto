@@ -1,4 +1,5 @@
-Oi, Eu sou o Fábio | Hi, I'm Fábio 👋
+Oi, Eu sou o Fábio <br />
+Hi, I'm Fábio 👋
 
 Sou Desenvolvedor Front-end formado em Análise e Desenvolvimento de Sistemas :student:<br />
 I'm Front End Developer :student: <br/> 
