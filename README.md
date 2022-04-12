@@ -5,8 +5,9 @@ tenho como hobbie estudar e aprender sobre toda área de desenvolvimento | my ho
 
 atualmente estou como Freelancer | working as a freelancer :man_technologist:
 
-🌱 Estou estudando atualmente | I’m currently learning: Vuejs | React | Nextjs.
-afgedfdf
+🌱 Estou estudando atualmente | I’m currently learning: Vuejs | React | Nextjs. <br />
+I’m currently learning: Vuejs | React | Nextjs.
+
 Habilidades e Conhecimentos | Skills ⚡
 
 <div style="display: inline_block; margin-bottom: 5px">
