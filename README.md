@@ -1,7 +1,9 @@
 Oi, Eu sou o Fábio | Hi, I'm Fábio 👋
 
-Sou Desenvolvedor Front-end formado em Análise e Desenvolvimento de Sistemas | I'm Front End Developer :student: <br/> 
-tenho como hobbie estudar e aprender sobre toda área de desenvolvimento | my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
+Sou Desenvolvedor Front-end formado em Análise e Desenvolvimento de Sistemas :student:<br />
+I'm Front End Developer :student: <br/> 
+tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
+my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
 
 atualmente estou como Freelancer :man_technologist: <br />
 working as a freelancer :man_technologist:
