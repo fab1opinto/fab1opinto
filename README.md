@@ -7,9 +7,6 @@ I'm Front End Developer :student: <br/>
 tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
 my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
 
-atualmente estou como Freelancer :man_technologist: <br />
-working as a freelancer :man_technologist:
-
 🌱 Estou estudando atualmente: Vuejs | React | Nextjs. <br />
 I’m currently learning: Vuejs | React | Nextjs.
 
