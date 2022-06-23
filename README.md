@@ -1,7 +1,7 @@
 Oi, Eu sou o Fábio <br />
 Hi, I'm Fábio 👋
 
-:student: Análise e Desenvolvimento de Sistemas :<br />
+:student: Análise e Desenvolvimento de Sistemas <br />
 :student: Analysis and Systems Development<br/> 
 
 Tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
