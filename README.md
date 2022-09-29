@@ -1,7 +1,7 @@
-<h3>Oi, Eu sou o Fábio 👋</h3> 
-Hi, I'm Fábio 👋 <br /> <br />
+Oi, Eu sou o Fábio 👋
+Hi, I'm Fábio 
 
-<h4>Tenho como hobbie estudar e aprender sobre toda área de desenvolvimento</h4> :books: :computer: :desktop_computer: <br />
+Tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
 my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
 
 Habilidades e Conhecimentos | Skills ⚡
