@@ -1,5 +1,5 @@
 <h3>Oi, Eu sou o Fábio 👋</h3> 
-Hi, I'm Fábio 👋
+Hi, I'm Fábio 👋 <br />
 
 Tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
 my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
