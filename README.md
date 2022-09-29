@@ -1,14 +1,8 @@
-<h2>Oi, Eu sou o Fábio</h2> <br />
-Hi, I'm Fábio 👋
-
-:student: Análise e Desenvolvimento de Sistemas <br />
-:student: Analysis and Systems Development<br/> 
+<h2>Oi, Eu sou o Fábio</h2> 👋<br />
+<h2>Hi, I'm Fábio</h2> 👋
 
 Tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
 my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
-
-🌱 Estou estudando atualmente: Vuejs | Laravel | . <br />
-🌱 I’m currently learning: Vuejs | Laravel.
 
 Habilidades e Conhecimentos | Skills ⚡
 
