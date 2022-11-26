@@ -2,6 +2,7 @@ Oi, Eu sou o Fábio 👋 <br />
 Hi, I'm Fábio <br />
 
 Tenho como hobbie estudar e aprender sobre toda área de desenvolvimento :books: :computer: :desktop_computer: <br />
+<br />
 my hobby is to study and learn about every area of development :books: :computer: :desktop_computer:
 
 Habilidades e Conhecimentos | Skills ⚡
