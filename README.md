@@ -19,6 +19,7 @@ Hi, I'm Fabio.<br>I am passionate about technology and I like to be always study
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div> <br />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fab1opinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
