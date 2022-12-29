@@ -7,6 +7,7 @@ Hi, I'm Fabio.<br>I am passionate about technology and I like to be always study
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a1enda#0351) 
 
 # 💻 Tech Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fab1opinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
