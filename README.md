@@ -17,10 +17,7 @@ Hi, I'm Fabio.<br>I am passionate about technology and I like to be always study
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" width="62"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="62"/>    
 </div> <br />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fab1opinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fab1opinto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fab1opinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fab1opinto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
