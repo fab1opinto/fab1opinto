@@ -5,7 +5,7 @@ Hi, I'm Fabio.<br>I am passionate about technology and I like to be always study
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a1enda#0351) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="fabiopintodev@gmail.com">(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 # 💻 Tech Stack:
 <div style="display: inline_block; margin-bottom: 5px">
