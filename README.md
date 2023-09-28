@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Fabio.<br>I am passionate about technology and I like to be always studying and learning.<br>I focus on full stack developer.
+Hi, I'm Fabio.<br>I am passionate about technology and I like to be always studying and learning.<br>I focus on Full Stack Developer.
 
 
 ## 🌐 Socials:
