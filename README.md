@@ -5,6 +5,8 @@ Hi, I'm Fabio.<br>I am passionate about technology and I like to be always study
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a1enda#0351) 
+<img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 
 # 💻 Tech Stack:
 <div style="display: inline_block; margin-bottom: 5px">
