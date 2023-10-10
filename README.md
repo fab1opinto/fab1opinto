@@ -1,6 +1,8 @@
 
 # 💫 About Me:
 Hi, I'm Fabio.<br>I am passionate about technology and I like to be always studying and learning.<br>I focus on Full Stack Developer.
+I have 3 years and a few months of experience in the development and programming area.
+Knowledge and experience in infrastructure and computer networks.
 
 
 ## 🌐 Socials:
